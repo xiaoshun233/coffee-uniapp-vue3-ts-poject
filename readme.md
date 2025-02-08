@@ -31,8 +31,7 @@ h5端运行 npm run dev:h5
 # 首页 (1 张)
 ![首页](https://github.com/xiaoshun233/coffee-uniapp-vue3-ts-poject/blob/main/assets/index.png)
 
-# 菜单 (2 张)
-![菜单](https://github.com/xiaoshun233/coffee-uniapp-vue3-ts-poject/blob/main/assets/menu_1.png)
+# 菜单 (1 张)
 ![菜单](https://github.com/xiaoshun233/coffee-uniapp-vue3-ts-poject/blob/main/assets/menu_2.png)
 
 # 购物车 (3 张)
