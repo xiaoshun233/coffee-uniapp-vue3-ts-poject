@@ -1,0 +1,9 @@
+page {
+    background-color: #f8f8f8;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
